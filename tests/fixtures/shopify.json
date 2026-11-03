@@ -1,0 +1,172 @@
+[{
+  "search": "shopify.com",
+  "advertiserId": "AR01625195283841286145",
+  "advertiserName": "Shopify Inc.",
+  "creativeId": "CR14579309272736202753",
+  "format": "VIDEO",
+  "domain": "shopify.com",
+  "firstShown": "2026-10-06T15:38:46.000Z",
+  "lastShown": "2026-11-03T16:57:15.000Z",
+  "daysShown": 29,
+  "imageUrl": null,
+  "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824156119110&uiFeatures=12,54&adGroupId=198247060494&assets=%3DH4sIAAAAAAAAAAEsANP_CioKCAjd19PNMBApCgkI47qijpsMEAEKCAidvNKUGRAGCgkI9LOW2poMEAzhcYKWLAAAAA&sig=ACiVB_xju4OSm15rPSKX9AehUOBj-mIrSQ&htmlParentId=fletch-render-8522118334275702900&responseCallback=fletchCallback8522118334275702900",
+  "adUrl": "https://adstransparency.google.com/advertiser/AR01625195283841286145/creative/CR14579309272736202753?region=US",
+  "details": {
+    "impressions": null,
+    "platforms": [],
+    "firstShown": null,
+    "lastShown": "2026-11-03",
+    "regions": [
+      {
+        "region": "US",
+        "regionName": "United States",
+        "impressions": null,
+        "firstShown": null,
+        "lastShown": "2026-11-03",
+        "platforms": []
+      }
+    ],
+    "variationCount": 5,
+    "variationImageUrls": [],
+    "previewUrls": [
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824156119110&uiFeatures=12&adGroupId=198247060494&assets=%3DH4sIAAAAAAAAAAEsANP_CioKCAjd19PNMBApCgkI47qijpsMEAEKCAidvNKUGRAGCgkI9LOW2poMEAzhcYKWLAAAAA&sig=ACiVB_xju4OSm15rPSKX9AehUOBj-mIrSQ&htmlParentId=fletch-render-5078802538191486531&responseCallback=fletchCallback5078802538191486531",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824156119110&uiFeatures=12&adGroupId=198247060494&assets=%3DH4sIAAAAAAAAAONy4OLkeLZrUd9sHgEmLk6OWxAmMxcnxwMIk5GLg-Pu9ctnDQQ0uTg45u65NEVSgI2Lk-PL5mm3ZvEI8AAAdwW4cUIAAAA&sig=ACiVB_zexxz9au63WTsisVzWqg5NPVI7EA&htmlParentId=fletch-render-14709969804430455493&responseCallback=fletchCallback14709969804430455493",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824156119110&uiFeatures=12&adGroupId=198247060494&assets=%3DH4sIAAAAAAAAAAEsANP_CioKCQjduqKOmwwQAQoICN3X080wECkKCAidvNKUGRAGCgkI9LOW2poMEAwXGSpDLAAAAA&sig=ACiVB_xocrHCF2E_a07VTYEOr4nND49TAw&htmlParentId=fletch-render-14854766037639142233&responseCallback=fletchCallback14854766037639142233",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824156119110&uiFeatures=12&adGroupId=198247060494&assets=%3DH4sIAAAAAAAAAAEsANP_CioKCAjd19PNMBApCgkI47qijpsMEAEKCAidvNKUGRAGCgkI9LOW2poMEAzhcYKWLAAAAA&allowedVariations=44&sig=ACiVB_xju4OSm15rPSKX9AehUOBj-mIrSQ&htmlParentId=fletch-render-8281686444057062394&responseCallback=fletchCallback8281686444057062394",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824156119110&uiFeatures=12&adGroupId=198247060494&assets=%3DH4sIAAAAAAAAAONy4OLkeLZrUd9sHgEmLk6OWxAmMxcnxwMIk5GLg-Pu9ctnDQQ0uTg45u65NEVSgI2Lk-PL5mm3ZvEI8AAAdwW4cUIAAAA&allowedVariations=45&sig=ACiVB_zexxz9au63WTsisVzWqg5NPVI7EA&htmlParentId=fletch-render-10722123552607268283&responseCallback=fletchCallback10722123552607268283"
+    ]
+  },
+  "adText": {
+    "headline": "Start for free today",
+    "longHeadline": "Build your store, manage sales, and start selling with Shopify’s mobile app.",
+    "description": "Sell online and in person, manage products, and run marketing from your phone.",
+    "displayUrl": "shopify.com",
+    "landingUrl": "https://shopify.com/free-trial",
+    "businessName": null,
+    "callToAction": null,
+    "productTitle": null,
+    "videoId": "4wp8GXAghHo",
+    "videoDuration": "1:00",
+    "channelName": "Shopify",
+    "videoUrl": "https://www.youtube.com/watch?v=4wp8GXAghHo",
+    "textSnippets": [],
+    "mediaUrls": [
+      "https://i.ytimg.com/vi/4wp8GXAghHo/hqdefault.jpg"
+    ]
+  },
+  "scrapedAt": "2026-11-03T17:24:08.850Z"
+},
+{
+  "search": "shopify.com",
+  "advertiserId": "AR01625195283841286145",
+  "advertiserName": "Shopify Inc.",
+  "creativeId": "CR10173662937261015041",
+  "format": "VIDEO",
+  "domain": "shopify.com",
+  "firstShown": "2026-10-06T15:34:20.000Z",
+  "lastShown": "2026-11-03T16:42:25.000Z",
+  "daysShown": 29,
+  "imageUrl": null,
+  "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824155666497&uiFeatures=12,54&adGroupId=167979636876&assets=%3DH4sIAAAAAAAAAONy4OLkmPh9dt9sHgEmLk6OJgiTmYuTowPCZOTi5Ljxcc-m2TwCPFwcHHP3XJoiKcDGxcFx9_rlswYCmgB-RYKiQgAAAA&sig=ACiVB_wej1iioJBOPpIKoCqKY-XpGWeOIw&htmlParentId=fletch-render-1709826495552049247&responseCallback=fletchCallback1709826495552049247",
+  "adUrl": "https://adstransparency.google.com/advertiser/AR01625195283841286145/creative/CR10173662937261015041?region=US",
+  "details": {
+    "impressions": null,
+    "platforms": [],
+    "firstShown": null,
+    "lastShown": "2026-11-03",
+    "regions": [
+      {
+        "region": "US",
+        "regionName": "United States",
+        "impressions": null,
+        "firstShown": null,
+        "lastShown": "2026-11-03",
+        "platforms": []
+      }
+    ],
+    "variationCount": 4,
+    "variationImageUrls": [],
+    "previewUrls": [
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824155666497&uiFeatures=12&adGroupId=167979636876&assets=%3DH4sIAAAAAAAAAONy4OLkmPh9dt9sHgEmLk6OJgiTmYuTowPCZOTi5Ljxcc-m2TwCPFwcHHP3XJoiKcDGxcFx9_rlswYCmgB-RYKiQgAAAA&sig=ACiVB_wej1iioJBOPpIKoCqKY-XpGWeOIw&htmlParentId=fletch-render-670874348988142824&responseCallback=fletchCallback670874348988142824",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824155666497&uiFeatures=12&adGroupId=167979636876&assets=%3DH4sIAAAAAAAAAOMK4-LkaPo-u282jwAzFyfHn29wZjdElJGLk6MVwexAMG983LNpNo8ADxcHx9w9l6ZICrBxcXDcvX75rIGAJgCcNyPqWAAAAA&sig=ACiVB_xJevAwkfimMlG_63ZaZXXOkgPVwA&htmlParentId=fletch-render-7527333337905879385&responseCallback=fletchCallback7527333337905879385",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824155666497&uiFeatures=12&adGroupId=167979636876&assets=%3DH4sIAAAAAAAAAONy4OLk6Ps-u282jwATFyfH_29gJjMXJ0crRJSRi5Pjxsc9m2bzCPBwcXDM3XNpiqQAGxcHx93rl88aCGgCALPlWRFCAAAA&sig=ACiVB_xP4WnzMzIU0JbmqoBHw2wspyH8bA&htmlParentId=fletch-render-4414288843590934992&responseCallback=fletchCallback4414288843590934992",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=824155666497&uiFeatures=12&adGroupId=167979636876&assets=%3DH4sIAAAAAAAAAOMK4-LkaPo-u282jwAzFyfHn29wZjdElJGLk6MVwexAMG983LNpNo8ADxcHx9w9l6ZICrBxcXDcvX75rIGAJgCcNyPqWAAAAA&allowedVariations=44&sig=ACiVB_xJevAwkfimMlG_63ZaZXXOkgPVwA&htmlParentId=fletch-render-15001947451354962835&responseCallback=fletchCallback15001947451354962835"
+    ]
+  },
+  "adText": {
+    "headline": "Build your store with AI on Shopify.",
+    "longHeadline": "Bring your business idea to life with Shopify's AI tools, start selling today.",
+    "description": "Start selling today. Shopify's AI tools helps you build and launch your business easily.",
+    "displayUrl": "shopify.com",
+    "landingUrl": "https://shopify.com/free-trial",
+    "businessName": null,
+    "callToAction": null,
+    "productTitle": null,
+    "videoId": "42mQXwapqAM",
+    "videoDuration": "0:30",
+    "channelName": "Shopify",
+    "videoUrl": "https://www.youtube.com/watch?v=42mQXwapqAM",
+    "textSnippets": [],
+    "mediaUrls": [
+      "https://i.ytimg.com/vi/42mQXwapqAM/hqdefault.jpg"
+    ]
+  },
+  "scrapedAt": "2026-11-03T17:24:08.850Z"
+},
+{
+  "search": "shopify.com",
+  "advertiserId": "AR01625195283841286145",
+  "advertiserName": "Shopify Inc.",
+  "creativeId": "CR09322705018274447361",
+  "format": "VIDEO",
+  "domain": "shopify.com",
+  "firstShown": "2026-07-02T14:26:05.000Z",
+  "lastShown": "2026-11-03T16:33:13.000Z",
+  "daysShown": 125,
+  "imageUrl": null,
+  "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=813064171679&uiFeatures=12,54&adGroupId=190738726295&assets=%3DH4sIAAAAAAAAAAEsANP_CioKCQjQ663H5QoQDAoICN3X080wECkKCAidvNKUGRAGCgkI0vuEmeYKEAGLg8SALAAAAA&sig=ACiVB_xnxsUu1nbb6kJd5Y_AypvlGu6hzg&htmlParentId=fletch-render-7377174676479093388&responseCallback=fletchCallback7377174676479093388",
+  "adUrl": "https://adstransparency.google.com/advertiser/AR01625195283841286145/creative/CR09322705018274447361?region=US",
+  "details": {
+    "impressions": null,
+    "platforms": [],
+    "firstShown": null,
+    "lastShown": "2026-11-03",
+    "regions": [
+      {
+        "region": "US",
+        "regionName": "United States",
+        "impressions": null,
+        "firstShown": null,
+        "lastShown": "2026-11-03",
+        "platforms": []
+      }
+    ],
+    "variationCount": 4,
+    "variationImageUrls": [],
+    "previewUrls": [
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=813064171679&uiFeatures=12&adGroupId=190738726295&assets=%3DH4sIAAAAAAAAAAEsANP_CioKCQjQ663H5QoQDAoICN3X080wECkKCAidvNKUGRAGCgkI0vuEmeYKEAGLg8SALAAAAA&sig=ACiVB_xnxsUu1nbb6kJd5Y_AypvlGu6hzg&htmlParentId=fletch-render-11135626092396958475&responseCallback=fletchCallback11135626092396958475",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=813064171679&uiFeatures=12&adGroupId=190738726295&assets=%3DH4sIAAAAAAAAAONy4OLguHv98lkDAU0uTo6rv1tmPuMSYOTi4Ji759IUSQE2Lk6OpidHpj_jEuDh4uS4BJPn5DgPYTIDAM08MZ1CAAAA&sig=ACiVB_zeD_JnuYKW7ccdKiR30_YsBwQjZg&htmlParentId=fletch-render-7017384245624601182&responseCallback=fletchCallback7017384245624601182",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=813064171679&uiFeatures=12&adGroupId=190738726295&assets=%3DH4sIAAAAAAAAAONy4OLkuPG7ZeYzLgFGLg6Ou9cvnzUQ0OTi4Ji759IUSQE2Lk6OpidHpj_jEuDh4uS4BFPJyXEewmQGAPkBqmdCAAAA&sig=ACiVB_z96D-x_Zirem9wlt8tS8wYaeQqgg&htmlParentId=fletch-render-2456228104588500711&responseCallback=fletchCallback2456228104588500711",
+      "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4771748616&creativeId=813064171679&uiFeatures=12&adGroupId=190738726295&assets=%3DH4sIAAAAAAAAAAEsANP_CioKCQjQ663H5QoQDAoICN3X080wECkKCAidvNKUGRAGCgkI0vuEmeYKEAGLg8SALAAAAA&allowedVariations=44&sig=ACiVB_xnxsUu1nbb6kJd5Y_AypvlGu6hzg&htmlParentId=fletch-render-16435228833023371215&responseCallback=fletchCallback16435228833023371215"
+    ]
+  },
+  "adText": {
+    "headline": "Sell online, in store, everywhere.",
+    "longHeadline": "Sell everywhere you need to be. Shopify makes it easy.",
+    "description": "Manage every sale in one place.",
+    "displayUrl": "shopify.com",
+    "landingUrl": "https://shopify.com/free-trial",
+    "businessName": null,
+    "callToAction": null,
+    "productTitle": null,
+    "videoId": "_dAwN16eOk8",
+    "videoDuration": "0:15",
+    "channelName": "Shopify",
+    "videoUrl": "https://www.youtube.com/watch?v=_dAwN16eOk8",
+    "textSnippets": [],
+    "mediaUrls": [
+      "https://i.ytimg.com/vi/_dAwN16eOk8/hqdefault.jpg"
+    ]
+  },
+  "scrapedAt": "2026-11-03T17:24:08.850Z"
+}]

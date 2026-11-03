@@ -1,0 +1,13 @@
+{
+  "name": "google-ads-transparency-api",
+  "version": "0.1.0",
+  "description": "Google Ads Transparency Center API for JavaScript: every ad a company runs on Google, with ad copy, countries and impressions. No dependencies.",
+  "type": "module",
+  "main": "index.mjs",
+  "exports": "./index.mjs",
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --test test.mjs" },
+  "keywords": ["google ads transparency", "ads transparency center", "ads library", "competitor ads", "youtube ads"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/carterprice2/google-ads-transparency-api.git", "directory": "js" }
+}

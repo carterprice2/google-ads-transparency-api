@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "google-ads-transparency-api"
+version = "0.1.0"
+description = "Google Ads Transparency Center API for Python: every ad a company runs on Google, with ad copy, countries and impressions"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = []
+keywords = ["google ads transparency", "google ads transparency center api", "ads library", "competitor ads", "ad spy", "youtube ads", "marketing"]
+
+[project.optional-dependencies]
+pandas = ["pandas>=1.5"]
+
+[project.scripts]
+google-ads-transparency = "google_ads_transparency.__main__:main"
+
+[project.urls]
+Homepage = "https://github.com/carterprice2/google-ads-transparency-api"
+Scraper = "https://apify.com/seodatalab/google-ads-transparency-scraper"
+
+[tool.setuptools]
+packages = ["google_ads_transparency"]
