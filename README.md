@@ -2,6 +2,10 @@
 
 See every ad a company runs on Google, from code. It covers Search, YouTube, Shopping, Maps and Play, and works by **domain, advertiser name, advertiser ID or URL**. Data comes from Google's public [Ads Transparency Center](https://adstransparency.google.com).
 
+![Demo: a competitor's YouTube ads with headlines and landing pages](assets/demo.gif)
+
+**Guides:** [How to see a competitor's Google ads (and export to CSV)](docs/see-competitor-google-ads.md) · [Daily alert for new competitor ads](docs/new-competitor-ads-alert.md)
+
 ```python
 from google_ads_transparency import GoogleAdsTransparency, to_dataframe
 
