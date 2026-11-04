@@ -41,10 +41,10 @@ python -m google_ads_transparency nike.com adidas.com --region US --last-days 30
 ## How it works, and what it costs
 Google has no API for the Ads Transparency Center. Scripts that call its website directly work for a few lookups, then get rate-limited.
 
-This library sends each call to a hosted scraper, [Google Ads Transparency Scraper on Apify](https://apify.com/seodatalab/google-ads-transparency-scraper). The scraper handles requests, retries and fresh IPs, and fetches ad details in parallel.
+This library sends each call to a hosted scraper, [Google Ads Transparency Scraper on Apify](https://apify.com/seodatalab/google-ads-transparency-scraper?fpr=fi898m). The scraper handles requests, retries and fresh IPs, and fetches ad details in parallel.
 
 **You need a free Apify account and its API token:**
-1. Sign up at [apify.com](https://apify.com).
+1. Sign up at [apify.com](https://apify.com?fpr=fi898m).
 2. Copy the token from *Settings → API & Integrations*.
 3. Run `export APIFY_TOKEN=...`.
 
@@ -56,7 +56,7 @@ This library sends each call to a hosted scraper, [Google Ads Transparency Scrap
 
 For example, 1,000 ads with everything turned on costs about $5. Searches that fail cost nothing, and Apify's free plan includes monthly credit.
 
-*Disclosure: the maintainer of this repo also publishes that scraper. The client code is MIT, and you can point it at another actor with the same input using `actor=`.*
+*Disclosure: the maintainer of this repo also publishes that scraper. The client code is MIT, and you can point it at another actor with the same input using `actor=`. Links to apify.com include my referral code, so Apify may pay me a commission if you sign up. It doesn't change your price.*
 
 ## Install
 ```bash

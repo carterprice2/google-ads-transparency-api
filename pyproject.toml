@@ -20,7 +20,7 @@ google-ads-transparency = "google_ads_transparency.__main__:main"
 
 [project.urls]
 Homepage = "https://github.com/carterprice2/google-ads-transparency-api"
-Scraper = "https://apify.com/seodatalab/google-ads-transparency-scraper"
+Scraper = "https://apify.com/seodatalab/google-ads-transparency-scraper?fpr=fi898m"
 
 [tool.setuptools]
 packages = ["google_ads_transparency"]

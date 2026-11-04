@@ -44,7 +44,7 @@ class GoogleAdsTransparency:
                  user_agent: str = f"google-ads-transparency-python/{__version__}"):
         self.token = token or os.environ.get("APIFY_TOKEN") or os.environ.get("APIFY_API_TOKEN")
         if not self.token:
-            raise TransparencyError("No Apify token. Create a free account at https://apify.com, copy the token from "
+            raise TransparencyError("No Apify token. Create a free account at https://apify.com?fpr=fi898m, copy the token from "
                                     "Settings > API & Integrations, and set APIFY_TOKEN or pass token=...")
         self.actor = actor
         self.timeout = timeout

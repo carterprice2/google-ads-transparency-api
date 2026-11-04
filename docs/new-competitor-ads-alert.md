@@ -54,18 +54,18 @@ jobs:
           git config user.name "new-ads-bot"; git config user.email "bot@users.noreply.github.com"
           git add seen.json && git commit -m "seen ads" && git push || true
 ```
-Then add `APIFY_TOKEN` (free account at [apify.com](https://apify.com)) and, optionally, a [Slack incoming webhook URL](https://api.slack.com/messaging/webhooks) as repository secrets, and run the workflow once by hand.
+Then add `APIFY_TOKEN` (free account at [apify.com](https://apify.com?fpr=fi898m)) and, optionally, a [Slack incoming webhook URL](https://api.slack.com/messaging/webhooks) as repository secrets, and run the workflow once by hand.
 
 ## Cost
 - Three competitors with ad copy usually cost a few cents a day: $1.50 per 1,000 ads, +$1.50 per 1,000 with copy, plus a small fee per run.
 - `max_ads=500` per competitor caps the worst case at about $4.50 a run if all three hit the cap with copy on. Lower it if you watch huge advertisers.
 
 ## No-code alternative
-On Apify, open [Google Ads Transparency Scraper](https://apify.com/seodatalab/google-ads-transparency-scraper):
+On Apify, open [Google Ads Transparency Scraper](https://apify.com/seodatalab/google-ads-transparency-scraper?fpr=fi898m):
 1. Enter the domains and set "Shown in the last N days" to 1.
 2. Save it as a task and add a daily schedule.
 3. Connect the Slack, Google Sheets or email integration.
 
 You'll get every ad shown that day, not only new ones, but no code is involved.
 
-*Disclosure: I maintain this library and the Apify scraper it calls.*
+*Disclosure: I maintain this library and the Apify scraper it calls. Links to apify.com include my referral code, so Apify may pay me a commission if you sign up. It doesn't change your price.*

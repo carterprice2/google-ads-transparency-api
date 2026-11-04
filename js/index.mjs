@@ -8,7 +8,7 @@ export class TransparencyError extends Error {}
 
 export class GoogleAdsTransparency {
     constructor({ token = globalThis.process?.env?.APIFY_TOKEN, actor = 'seodatalab~google-ads-transparency-scraper', timeoutMs = 1_800_000 } = {}) {
-        if (!token) throw new TransparencyError('No Apify token. Create a free account at https://apify.com and pass { token } or set APIFY_TOKEN.');
+        if (!token) throw new TransparencyError('No Apify token. Create a free account at https://apify.com?fpr=fi898m and pass { token } or set APIFY_TOKEN.');
         Object.assign(this, { token, actor, timeoutMs });
     }
 

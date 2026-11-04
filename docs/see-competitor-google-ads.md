@@ -68,4 +68,4 @@ The example above cost about 2.5 cents. Searches that find nothing are free.
 
 Next: [get an alert when a competitor launches new ads](new-competitor-ads-alert.md).
 
-*Disclosure: I maintain this library and the Apify scraper it calls.*
+*Disclosure: I maintain this library and the Apify scraper it calls. Links to apify.com include my referral code, so Apify may pay me a commission if you sign up. It doesn't change your price.*
