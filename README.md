@@ -2,9 +2,9 @@
 
 See every ad a company runs on Google, from code. It covers Search, YouTube, Shopping, Maps and Play, and works by **domain, advertiser name, advertiser ID or URL**. Data comes from Google's public [Ads Transparency Center](https://adstransparency.google.com).
 
-![Demo: a competitor's YouTube ads with headlines and landing pages](assets/demo.gif)
+![Demo: a competitor's YouTube ads with headlines and landing pages](https://raw.githubusercontent.com/carterprice2/google-ads-transparency-api/main/assets/demo.gif)
 
-**Guides:** [How to see a competitor's Google ads (and export to CSV)](docs/see-competitor-google-ads.md) · [Daily alert for new competitor ads](docs/new-competitor-ads-alert.md)
+**Guides:** [How to see a competitor's Google ads (and export to CSV)](https://github.com/carterprice2/google-ads-transparency-api/blob/main/docs/see-competitor-google-ads.md) · [Daily alert for new competitor ads](https://github.com/carterprice2/google-ads-transparency-api/blob/main/docs/new-competitor-ads-alert.md)
 
 ```python
 from google_ads_transparency import GoogleAdsTransparency, to_dataframe
@@ -60,11 +60,11 @@ For example, 1,000 ads with everything turned on costs about $5. Searches that f
 
 ## Install
 ```bash
-pip install "google-ads-transparency-api @ git+https://github.com/carterprice2/google-ads-transparency-api"
+pip install google-ads-transparency-api
 ```
 The client has no dependencies. Install `pandas` if you want `to_dataframe()`.
 
-For JavaScript (Node 18+), copy [`js/index.mjs`](js/index.mjs). It's a single file with no dependencies.
+For JavaScript (Node 18+): `npm install google-ads-transparency-api`, or copy [`js/index.mjs`](https://github.com/carterprice2/google-ads-transparency-api/blob/main/js/index.mjs). It's a single file with no dependencies.
 
 ## Python
 ```python
@@ -129,7 +129,7 @@ A real ad, shortened. Empty fields are left out.
 - **YouTube creative research.** Use `format="video", platform="youtube", ad_text=True` to get video links, durations and headlines in your niche.
 - **Market entry.** Use `details=True` to see which countries a brand advertises in.
 
-See [`examples/`](examples).
+See [`examples/`](https://github.com/carterprice2/google-ads-transparency-api/blob/main/examples).
 
 ## FAQ
 **Is there an official Google Ads Transparency API?**
